@@ -1,215 +1,171 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:112240,100:2563EB&text=Sneha%20G&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Cloud%20Computing%20|%20Data%20Analytics&descAlignY=58" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1A1A1A,100:D4AF37&text=Sneha%20G&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Computing%20•%20Data%20Analytics&descAlignY=58"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=Profile+Views&color=2563EB&style=for-the-badge" />
+</p>
+
+<div align="center">
 
 # Hi 👋, I'm Sneha G
 
-### Computer Science Engineering Student | Full-Stack Developer | Cloud Computing & Data Analytics Enthusiast
+### Computer Science Engineering Student • Full-Stack Developer • Cloud Computing & Data Analytics Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Building+Solutions+That+Matter" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge"/>
+Building impactful technology solutions through continuous learning and innovation 🚀
 
 </div>
 
 ---
 
-## 🖤 About Me
+## 👩‍💻 About Me
 
-```yaml
-Name: Sneha G
+🎓 Final-Year B.Tech Computer Science Engineering Student
 
-Education:
-  B.Tech Computer Science Engineering
+💻 Passionate about Software Development and Full-Stack Applications
 
-Interests:
-  - Full Stack Development
-  - Cloud Computing
-  - Data Analytics
-  - Software Engineering
+☁️ Exploring Cloud Computing and Scalable Systems
 
-Current Focus:
-  - AWS Cloud
-  - MERN Stack
-  - Data Structures & Algorithms
-  - Open Source Development
+📊 Interested in Data Analytics and Data-Driven Decision Making
 
-Open To:
-  - Internships
-  - Collaborations
-  - Learning Opportunities
-```
+🏆 IEEE Student Member since 2023
 
----
+🌱 Currently improving my skills in Data Structures & Algorithms, MERN Stack, and AWS Cloud
 
-## 🏆 Leadership & Activities
-
-<table>
-<tr>
-<td>
-
-🎖 IEEE Student Member (2023 – Present)
-
-🎖 Membership Development Committee Member (2025 – 26)
-
-🎖 Joint Secretary (2026 – 27)
-
-🎖 Women Entrepreneurship Assist Lead
-
-🎖 Active Participant in Hackathons & Technical Events
-
-</td>
-</tr>
-</table>
+🚀 Open to internships, collaborations, and learning opportunities
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ### 🎯 ImpactMatch
 
-AI-powered volunteer management platform connecting volunteers, mentors and NGOs.
+AI-powered volunteer management platform connecting volunteers, NGOs, and mentors through intelligent opportunity matching.
 
-#### Highlights
+**Features**
 
-✔ Opportunity Matching
+* Opportunity Matching
+* Attendance Tracking
+* Certificate Management
+* Mentor Support
 
-✔ Attendance Tracking
+**Tech Stack**
 
-✔ Certificate Management
+* React
+* Node.js
+* Express.js
+* MongoDB
 
-✔ Mentor Support
+🔗 Repository: https://github.com/Snehaahaa/ImpactMatch
 
-#### Tech Stack
-
-React • Node.js • Express.js • MongoDB
-
-🔗 Repository:
-https://github.com/Snehaahaa/ImpactMatch
-
-</td>
-
-<td width="50%">
+---
 
 ### 🤖 AI Customer Support Agent
 
-AI-powered customer support chatbot for e-commerce businesses.
+AI-powered customer support chatbot designed for e-commerce platforms.
 
-#### Highlights
+**Features**
 
-✔ Query Resolution
+* Customer Query Handling
+* Personalized Responses
+* Product Assistance
+* Session-Based Interaction
 
-✔ Personalized Responses
+**Tech Stack**
 
-✔ Product Assistance
+* Python
+* Streamlit
+* OpenAI API
 
-✔ Session Management
-
-#### Tech Stack
-
-Python • Streamlit • OpenAI API
-
-🔗 Repository:
-https://github.com/Snehaahaa/ai-customer-support-agent
-
-</td>
-
-</tr>
-</table>
+🔗 Repository: https://github.com/Snehaahaa/ai-customer-support-agent
 
 ---
 
-## ⚡ Tech Stack
+## 🏆 Leadership & Activities
 
-<div align="center">
+* IEEE Student Member (2023 – Present)
+* Membership Development Committee Member (2025–26)
+* Joint Secretary – IEEE Student Branch (2026–27)
+* Women Entrepreneurship Assist Lead
+* Active participant in hackathons, workshops, and technical events
 
+---
+
+## 🛠 Technical Skills
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,aws&theme=dark"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=github-dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-☁️ Earn AWS Certification
+☁️ AWS Cloud Computing
 
-📊 Build Data Analytics Portfolio Projects
+📊 Data Analytics & Visualization
 
-💻 Strengthen Full-Stack Development Skills
+💻 Full-Stack Web Development
 
-🧩 Master Data Structures & Algorithms
+🧩 Data Structures & Algorithms
 
-🚀 Contribute to Open Source Projects
+🚀 Open Source Contributions
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📜 Certifications
 
-🏅 AI for Everyone — Coursera
+🏅 AI for Everyone – Coursera
 
-🏅 Web Development Foundations — LinkedIn Learning
+🏅 Web Development Foundations – LinkedIn Learning
 
 🏅 NPTEL & Professional Development Certifications
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/snehaaag">
-<img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:snehaag310@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D4AF37?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Snehaahaa">
-<img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ✨ Building Solutions That Matter
-
-*"Turning ideas into impactful technology through continuous learning and innovation."*
+### 💙 Turning Ideas into Impactful Solutions Through Technology
 
 </div>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1A1A1A,100:D4AF37"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:112240,100:2563EB" />
 </p>
