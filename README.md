@@ -1,44 +1,53 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Sneha%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20Computing%20%7C%20Data%20Analytics&descAlignY=58" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1A0B0B,50:4A0404,100:800020&text=Sneha%20G&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Computing%20•%20Data%20Analytics&descAlignY=58"/>
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Sneha G</h1>
 
 <h3 align="center">
-Computer Science Engineering Student from India 🇮🇳
+Computer Science Engineering Student | Full-Stack Developer | Cloud & Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Building+and+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800020&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Learning+Always+Building" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Snehaahaa">
-    <img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=PROFILE+VIEWS&color=800020&style=for-the-badge" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🖤 About Me
 
-🎓 Final-Year B.Tech Computer Science Engineering Student
+```yaml
+Name: Sneha G
+Education: B.Tech Computer Science Engineering
+Location: Kerala, India
 
-💻 Passionate about Software Development and Problem Solving
+Interests:
+  - Full Stack Development
+  - Cloud Computing
+  - Data Analytics
+  - Software Engineering
 
-☁️ Exploring Cloud Computing and Modern Web Technologies
+Current Focus:
+  - AWS Cloud
+  - MERN Stack
+  - DSA
+  - Open Source
 
-📊 Interested in Data Analytics and Visualization
-
-🏆 IEEE Student Member since 2023
-
-🌱 Currently learning AWS Cloud, DSA, and Advanced MERN Stack
-
-🚀 Open to Internship and Collaboration Opportunities
+Open To:
+  - Internships
+  - Collaborations
+  - Learning Opportunities
+```
 
 ---
 
-# 🏆 Leadership & Experience
+# 🏆 Leadership & Activities
 
 ### IEEE Student Branch
 
@@ -50,6 +59,8 @@ Computer Science Engineering Student from India 🇮🇳
 
 🔹 Women Entrepreneurship Assist Lead
 
+🔹 Active Participant in Technical Workshops & Hackathons
+
 ---
 
 # 🚀 Featured Projects
@@ -59,51 +70,49 @@ Computer Science Engineering Student from India 🇮🇳
 
 <td width="50%">
 
-## 🎯 ImpactMatch
+### 🎯 ImpactMatch
 
-AI-powered volunteer management platform connecting volunteers, NGOs, and mentors.
+AI-powered volunteer management platform connecting NGOs, mentors and volunteers.
 
-### Features
+#### Features
 
-✔ Smart Opportunity Matching
+✔ Opportunity Matching
 
 ✔ Attendance Tracking
 
-✔ Certificate Generation
+✔ Certificate Management
 
 ✔ Mentor Support
 
-### Tech Stack
+#### Tech Stack
 
-React • Node.js • Express • MongoDB
+React • Node.js • Express.js • MongoDB
 
-🔗 Repository:
-https://github.com/Snehaahaa/ImpactMatch
+🔗 https://github.com/Snehaahaa/ImpactMatch
 
 </td>
 
 <td width="50%">
 
-## 🤖 AI Customer Support Agent
+### 🤖 AI Customer Support Agent
 
-AI-powered customer support chatbot for e-commerce businesses.
+AI chatbot designed to automate customer support experiences.
 
-### Features
+#### Features
 
-✔ Customer Query Handling
+✔ Query Resolution
 
 ✔ Personalized Responses
 
-✔ Session Management
-
 ✔ Product Assistance
 
-### Tech Stack
+✔ Session Management
+
+#### Tech Stack
 
 Python • Streamlit • OpenAI API
 
-🔗 Repository:
-https://github.com/Snehaahaa/ai-customer-support-agent
+🔗 https://github.com/Snehaahaa/ai-customer-support-agent
 
 </td>
 
@@ -112,49 +121,48 @@ https://github.com/Snehaahaa/ai-customer-support-agent
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark"/>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -165,7 +173,7 @@ https://github.com/Snehaahaa/ai-customer-support-agent
 
 📊 Data Analytics & Visualization
 
-💻 Full-Stack Development
+💻 MERN Stack Development
 
 🧩 Data Structures & Algorithms
 
@@ -183,30 +191,34 @@ https://github.com/Snehaahaa/ai-customer-support-agent
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/snehaaag">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:snehaag310@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Snehaahaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Turning Ideas Into Impactful Solutions Through Technology ⭐
-</h3>
+<div align="center">
+
+### 🍷 Building Technology That Creates Impact 🍷
+
+</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A0B0B,50:4A0404,100:800020"/>
+
 </p>
