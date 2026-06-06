@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:0B3D2E,100:00C853&text=Sneha%20G&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Computing%20•%20Data%20Analytics&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:112240,100:00E5FF&text=Sneha%20G&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Computing%20•%20Data%20Analytics&descAlignY=58"/>
 
 # Hi 👋, I'm Sneha G
 
 ### Computer Science Engineering Student | Full-Stack Developer | Cloud Computing & Data Analytics Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Learning+Always+Building" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
@@ -73,7 +73,7 @@ AI-powered volunteer management platform connecting NGOs, mentors and volunteers
 
 #### Key Features
 
-✔ Volunteer Opportunity Matching
+✔ Smart Opportunity Matching
 
 ✔ Attendance Tracking
 
@@ -85,7 +85,7 @@ AI-powered volunteer management platform connecting NGOs, mentors and volunteers
 
 React • Node.js • Express.js • MongoDB
 
-🔗 https://github.com/Snehaahaa/ImpactMatch
+🔗 <a href="https://github.com/Snehaahaa/ImpactMatch">View Repository</a>
 
 </td>
 
@@ -109,7 +109,7 @@ AI-powered customer support chatbot for e-commerce businesses.
 
 Python • Streamlit • OpenAI API
 
-🔗 https://github.com/Snehaahaa/ai-customer-support-agent
+🔗 <a href="https://github.com/Snehaahaa/ai-customer-support-agent">View Repository</a>
 
 </td>
 
@@ -140,7 +140,7 @@ Python • Streamlit • OpenAI API
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws&theme=dark"/>
 
 </div>
 
@@ -150,9 +150,9 @@ Python • Streamlit • OpenAI API
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -160,7 +160,7 @@ Python • Streamlit • OpenAI API
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -195,15 +195,15 @@ Python • Streamlit • OpenAI API
 <div align="center">
 
 <a href="https://www.linkedin.com/in/snehaaag">
-<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:snehaag310@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Snehaahaa">
-<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -212,7 +212,7 @@ Python • Streamlit • OpenAI API
 
 <div align="center">
 
-## 💚 Building Solutions That Matter
+## 💎 Building Solutions That Matter
 
 *"Technology becomes meaningful when it creates impact."*
 
@@ -220,6 +220,6 @@ Python • Streamlit • OpenAI API
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0B3D2E,100:00C853"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:112240,100:00E5FF"/>
 
 </p>
