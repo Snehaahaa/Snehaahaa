@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:112240,100:00E5FF&text=Sneha%20G&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Computing%20•%20Data%20Analytics&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:3B1F2B,100:B76E79&text=Sneha%20G&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Computing%20•%20Data%20Analytics&descAlignY=58"/>
 
 # Hi 👋, I'm Sneha G
 
 ### Computer Science Engineering Student | Full-Stack Developer | Cloud Computing & Data Analytics Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=B76E79&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Building+Solutions+That+Matter" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=PROFILE+VIEWS&color=B76E79&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 ```yaml
 Name: Sneha G
@@ -44,7 +44,7 @@ Open To:
 
 ---
 
-# 🏆 Leadership & Activities
+## 🏆 Leadership & Activities
 
 ### IEEE Student Branch
 
@@ -60,7 +60,7 @@ Open To:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -71,9 +71,9 @@ Open To:
 
 AI-powered volunteer management platform connecting NGOs, mentors and volunteers.
 
-#### Key Features
+**Features**
 
-✔ Smart Opportunity Matching
+✔ Smart Volunteer Matching
 
 ✔ Attendance Tracking
 
@@ -81,7 +81,7 @@ AI-powered volunteer management platform connecting NGOs, mentors and volunteers
 
 ✔ Mentor Support
 
-#### Tech Stack
+**Tech Stack**
 
 React • Node.js • Express.js • MongoDB
 
@@ -93,9 +93,9 @@ React • Node.js • Express.js • MongoDB
 
 ### 🤖 AI Customer Support Agent
 
-AI-powered customer support chatbot for e-commerce businesses.
+AI-powered chatbot designed for customer support automation.
 
-#### Key Features
+**Features**
 
 ✔ Customer Query Resolution
 
@@ -105,7 +105,7 @@ AI-powered customer support chatbot for e-commerce businesses.
 
 ✔ Session Management
 
-#### Tech Stack
+**Tech Stack**
 
 Python • Streamlit • OpenAI API
 
@@ -118,11 +118,11 @@ Python • Streamlit • OpenAI API
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark"/>
 
@@ -146,7 +146,7 @@ Python • Streamlit • OpenAI API
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -166,13 +166,13 @@ Python • Streamlit • OpenAI API
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ☁️ AWS Cloud Computing
 
 📊 Data Analytics & Visualization
 
-💻 Full-Stack Web Development
+💻 Full-Stack Development
 
 🧩 Data Structures & Algorithms
 
@@ -180,7 +180,7 @@ Python • Streamlit • OpenAI API
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 🏅 AI for Everyone – Coursera
 
@@ -190,20 +190,20 @@ Python • Streamlit • OpenAI API
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/snehaaag">
-<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:snehaag310@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-B76E79?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Snehaahaa">
-<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-B76E79?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -212,7 +212,7 @@ Python • Streamlit • OpenAI API
 
 <div align="center">
 
-## 💎 Building Solutions That Matter
+## 🌹 Building Solutions That Matter
 
 *"Technology becomes meaningful when it creates impact."*
 
@@ -220,6 +220,6 @@ Python • Streamlit • OpenAI API
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:112240,100:00E5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:3B1F2B,100:B76E79"/>
 
 </p>
