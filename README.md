@@ -1,154 +1,212 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Sneha%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20Computing%20%7C%20Data%20Analytics&descAlignY=58" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sneha G</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Full-Stack Developer | Cloud & Data Analytics Enthusiast
+Computer Science Engineering Student from India 🇮🇳
 </h3>
 
 <p align="center">
-Building impactful solutions through technology 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Building+and+Learning" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader;Always+Learning+New+Things" />
+  <a href="https://github.com/Snehaahaa">
+    <img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 Final-Year B.Tech Computer Science Engineering Student
 
-💡 Passionate about developing real-world software solutions
+💻 Passionate about Software Development and Problem Solving
 
-☁️ Currently exploring Cloud Computing & Data Analytics
+☁️ Exploring Cloud Computing and Modern Web Technologies
 
-🚀 Building projects using MERN Stack
+📊 Interested in Data Analytics and Visualization
 
 🏆 IEEE Student Member since 2023
 
-📌 Membership Development Committee Member (2025–26)
+🌱 Currently learning AWS Cloud, DSA, and Advanced MERN Stack
 
-📌 Joint Secretary – IEEE Student Branch (2026–27)
-
-🌱 Currently improving:
-- Data Structures & Algorithms
-- AWS Cloud
-- Full Stack Development
-- Data Analytics
+🚀 Open to Internship and Collaboration Opportunities
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Leadership & Experience
 
-### 🎯 ImpactMatch
+### IEEE Student Branch
+
+🔹 IEEE Student Member (2023 – Present)
+
+🔹 Membership Development Committee Member (2025 – 26)
+
+🔹 Joint Secretary (2026 – 27)
+
+🔹 Women Entrepreneurship Assist Lead
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎯 ImpactMatch
 
 AI-powered volunteer management platform connecting volunteers, NGOs, and mentors.
 
-✨ Features
-- Opportunity Matching
-- Attendance Tracking
-- Certificate Management
-- Mentor Support
+### Features
 
-🛠 Tech Stack:
+✔ Smart Opportunity Matching
+
+✔ Attendance Tracking
+
+✔ Certificate Generation
+
+✔ Mentor Support
+
+### Tech Stack
+
 React • Node.js • Express • MongoDB
 
 🔗 Repository:
 https://github.com/Snehaahaa/ImpactMatch
 
----
+</td>
 
-### 🤖 AI Customer Support Agent
+<td width="50%">
 
-AI-powered customer support chatbot for e-commerce platforms.
+## 🤖 AI Customer Support Agent
 
-✨ Features
-- Customer Query Handling
-- Personalized Responses
-- Session-Based Interaction
-- Product Support Assistance
+AI-powered customer support chatbot for e-commerce businesses.
 
-🛠 Tech Stack:
+### Features
+
+✔ Customer Query Handling
+
+✔ Personalized Responses
+
+✔ Session Management
+
+✔ Product Assistance
+
+### Tech Stack
+
 Python • Streamlit • OpenAI API
 
 🔗 Repository:
 https://github.com/Snehaahaa/ai-customer-support-agent
 
----
+</td>
 
-## 🏅 Leadership & Activities
-
-🏆 IEEE Student Member (2023 – Present)
-
-🏆 Membership Development Committee Member (2025–26)
-
-🏆 Joint Secretary – IEEE Student Branch (2026–27)
-
-🏆 Women Entrepreneurship Assist Lead
-
-🏆 Active participant in hackathons, workshops and technical events
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-cyan?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Database
+### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
----
+### Tools
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🌱 2026 Goals
+# 📈 GitHub Analytics
 
-☁️ AWS Cloud Certification
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Snehaahaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaahaa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-📊 Build Data Analytics Portfolio Projects
-
-🚀 Contribute to Open Source
-
-💻 Strengthen DSA & Problem Solving
-
-📈 Secure a Software Development Role
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/snehaaag)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/Snehaahaa)
-
-📧 Email: snehaag310@gmail.com
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaahaa&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-⭐ "Technology becomes meaningful when it creates impact."
+# 🎯 Current Focus
+
+☁️ AWS Cloud Computing
+
+📊 Data Analytics & Visualization
+
+💻 Full-Stack Development
+
+🧩 Data Structures & Algorithms
+
+🚀 Open Source Contributions
+
+---
+
+# 📜 Certifications
+
+🏅 AI for Everyone – Coursera
+
+🏅 Web Development Foundations – LinkedIn Learning
+
+🏅 Additional Certifications Available on LinkedIn
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/snehaaag">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:snehaag310@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Snehaahaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Turning Ideas Into Impactful Solutions Through Technology ⭐
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+</p>
