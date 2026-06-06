@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast;Data+Analytics+Learner;IEEE+Student+Leader" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snehaahaa&label=Profile+Views&color=2563EB&style=for-the-badge" />
-</p>
-
 <div align="center">
 
 # Hi 👋, I'm Sneha G
